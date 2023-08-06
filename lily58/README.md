@@ -6,6 +6,14 @@ Coming soon
 
 ## Firmware
 
+### Personalizing
+
+I've flashed the boards to come with Vial which should allow you a good amount of freedom in customizing the keymaps. Download and install the Vial GUI [here](https://get.vial.today/).
+
+Feel free to use the contents of `vial-firmware` as a base and modifying it with whichever QMK features you'd like. See the [QMK documentation](https://docs.qmk.fm/#/) on firmware features and on adding these features to your keyboard. 
+
+### Flashing Firmware
+
 DISCLAIMER: As Vial is a work in progress, I expect that this guide may fall out of date. In which case, please follow the latest Vial documentation on setting up a keymap.
 
 1. Follow step 1 of Vial's [Porting to Vial guide](https://get.vial.today/docs/porting-to-vial.html#1-prepare-your-build-environment) to prepare your build environment.
